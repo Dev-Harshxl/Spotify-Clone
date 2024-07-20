@@ -29,7 +29,7 @@ const Navbar = () => {
             Install App
           </p>
           <p className="bg-purple-500 text-black w-7 h-7 px-3 py-1 rounded-full cursor-pointer flex items-center justify-center">
-            T
+            H
           </p>
         </div>
       </div>
