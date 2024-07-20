@@ -1,3 +1,0 @@
-Hey There!
-My name is Harshal Gupta
-I will update this readme file soon...
